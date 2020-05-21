@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Записная книжка</string>
+    <string name="save">Сохранить</string>
+    <string name="save_ok">данные сохранены</string>
+    <string name="shared_pref_name">MyNote</string>
+</resources>
